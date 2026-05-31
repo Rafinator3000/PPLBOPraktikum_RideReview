@@ -11,3 +11,6 @@ create new database "ridereview" in phpmyadmin
 php artisan migrate (create tables)
 
 php artisan db:seed --class=LocationSeeder (seeds example locations)
+
+
+FOLDER "node_modules" HAS FILES THAT CANT BE UPLOADED TO GITHUB, ILL SEND IT IN THE DRIVE INSTEAD
